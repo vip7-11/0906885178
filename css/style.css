@@ -769,7 +769,7 @@ ol {
 
 .bucket-list__warp {
 	max-width: 1800px;
-	margin: 0 auto;
+	margin: 25px;
 }
 
 .bucket-list__item {
