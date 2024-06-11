@@ -716,6 +716,7 @@ ol {
 }
 
 .experience__item {
+	padding: 10px;
 	padding-top: 15px;
 	margin-bottom: 20px;
 }
@@ -1128,7 +1129,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .contact__warp {
 	max-width: 802px;
-	padding: 50px 50px 130px;
+	padding: 90px 50px 130px;
 	margin: 0 auto;
 }
 
