@@ -1128,7 +1128,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .contact__warp {
 	max-width: 802px;
-	padding: 170px 15px 130px;
+	padding: 50px 50px 130px;
 	margin: 0 auto;
 }
 
