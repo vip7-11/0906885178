@@ -747,7 +747,7 @@ ol {
 	border-radius: 20px;  /* 圓角 */
 	overflow: hidden;     /* 超過範圍就裁切 */
 	height: 6px;
-	background: #dad5d5;
+	background: #E8E8E8;
 }
 
 .progress-bar-style .bar-inner {
