@@ -744,11 +744,15 @@ ol {
 }
 
 .progress-bar-style {
+	border-radius: 20px;  /* 圓角 */
+	overflow: hidden;     /* 超過範圍就裁切 */
 	height: 6px;
-	background: #E8E8E8;
+	background: #dad5d5;
 }
 
 .progress-bar-style .bar-inner {
+	border-radius: 20px;  /* 圓角 */
+	overflow: hidden;     /* 超過範圍就裁切 */
 	height: 100%;
 	background: #8DB952;
 }
@@ -769,7 +773,7 @@ ol {
 
 .bucket-list__warp {
 	max-width: 1800px;
-	margin: 25px;
+	margin: 0 auto;
 }
 
 .bucket-list__item {
